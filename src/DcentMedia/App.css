@@ -1,0 +1,6 @@
+/* Styles go here */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+body{
+    font-family: 'Inconsolata', monospace; 
+    /* background-image: url('https://bafybeibacobmt5b7wpzqke45wqgnhq4htm7xsmlk2frlp3louxwbeq4bxa.ipfs.infura-ipfs.io/'); */
+}
